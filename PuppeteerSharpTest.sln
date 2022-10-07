@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerSharpTest", "PuppeteerSharpTest\PuppeteerSharpTest.csproj", "{6AEB3C28-DD86-47A1-929A-2881518D9676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerSharpTest.API", "PuppeteerSharpTest.API\PuppeteerSharpTest.API.csproj", "{3D1EBC83-5467-42F1-B777-C7282C1A9108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEB3C28-DD86-47A1-929A-2881518D9676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEB3C28-DD86-47A1-929A-2881518D9676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEB3C28-DD86-47A1-929A-2881518D9676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEB3C28-DD86-47A1-929A-2881518D9676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1EBC83-5467-42F1-B777-C7282C1A9108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1EBC83-5467-42F1-B777-C7282C1A9108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1EBC83-5467-42F1-B777-C7282C1A9108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1EBC83-5467-42F1-B777-C7282C1A9108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BE825E0-62A8-4F73-A0A7-04EAF589844C}
+	EndGlobalSection
+EndGlobal
