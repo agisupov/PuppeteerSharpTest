@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# .local-chromium
+/PuppeteerSharpTest.API/.local-chromium/Win64-970485/chrome-win
